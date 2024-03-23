@@ -1,4 +1,5 @@
 # siti-store-code
+
 # Membuat fungsi untuk merekap barang
 def rekap_barang():
     # Inisialisasi list untuk menyimpan barang
